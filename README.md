@@ -1,0 +1,1 @@
+In this project, I have done performance testing for www.Opencart.com, complete end-to-end testing from login to the check-out page, and also written a customized script to mimic human actions like response time, choosing random products, etc., and also created scenarios and generated reports.
